@@ -33,3 +33,9 @@ h2 {
     margin-right: 25px;
     margin-left: 25px;
 }
+h2.final {
+    font-style: italic;
+}
+#map {
+    box-shadow: 10px 10px 5px #888888;
+}
